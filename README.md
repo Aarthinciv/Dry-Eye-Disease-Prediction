@@ -95,5 +95,5 @@ EDA identified **key predictors** using:
 ## 👩‍💻 About Me  
 **Aarthi Vijayaragavan**  
 🎓 MSc Data Analytics – National College of Ireland  
-📫 **Email:** x23438533@student.ncirl.ie  
+📫 **Email:** aarthiragav6666@gmail.com  
 
